@@ -1,0 +1,23 @@
+.subsection {
+    color:red
+}
+
+.preview {
+    color:blue
+}
+
+.subsection.preview {
+    color: green;
+}
+
+#reer {
+    color: aqua;
+}
+
+.subsection.preview#reer {
+    color: rgb(128, 0, 73);
+}
+
+/* .preview {
+    color: rgb(255, 0, 225) !important;
+} */
