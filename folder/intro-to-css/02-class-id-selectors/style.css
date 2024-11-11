@@ -1,0 +1,16 @@
+.reer {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: salmon;
+}
+#blue {
+    background-color: transparent;
+    font-size: 36px;
+    color: blue;
+}
+.odd {
+    font-size: 24px;
+}
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+}
